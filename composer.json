@@ -24,8 +24,6 @@
     },
     "target-dir": "Bazinga/Bundle/HateoasBundle",
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
+        "minimum-stability": "dev"
     }
 }
